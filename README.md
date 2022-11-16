@@ -5,4 +5,3 @@
 - 📫 How to reach me: [@splodn](https://twitter.com/splodn) on Twitter
 - 👨‍💼 Visit my [Polywork profile](https://www.polywork.com/fam) for more on my professional journey
 - ⚡ Fun fact: I started programming in 1st grade.
-- 
